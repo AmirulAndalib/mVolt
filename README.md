@@ -4,6 +4,8 @@ Windows tuning utility for Blackwell GPUs.
 
 ## Download
 
+## Core Power Limit and Memory Power Limit ARE NOT Power limits, but rather over-current protection, though the correct unit is Ampere and not Watt!
+
 Download the latest `mVolt+.exe` from [GitHub Releases](https://github.com/b00nz/mVolt/releases/tag/v0.36)
 or click here: [mVolt+.exe](https://github.com/b00nz/mVolt/releases/download/v0.36/mVolt+.exe)
 
